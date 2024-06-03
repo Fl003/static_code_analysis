@@ -1,3 +1,5 @@
+// CODING KATA 4
+
 $(document).ready(function () {
     // beim aufruf der webseite wird appointments.html geladen und alle appointments reingeladen
     $("body").load("appointments.html", function () {
